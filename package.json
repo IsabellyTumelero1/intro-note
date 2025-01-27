@@ -1,0 +1,14 @@
+{
+  "name": "intro-note",
+  "version": "1.0.0",
+  "description": "estudo de introdução ao nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabelly Tumelero",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
